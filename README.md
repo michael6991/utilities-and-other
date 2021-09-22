@@ -1,2 +1,2 @@
 # utilities-and-other
-Scripts, configurations and other stuff for various situations
+Scripts, configurations and other useful stuff for various situations
