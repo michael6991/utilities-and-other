@@ -1,4 +1,3 @@
-;
 ; build:
 ; nasm -felf64 -o hello64_libc.o hello64_libc.asm
 ; 
