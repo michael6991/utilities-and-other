@@ -35,6 +35,7 @@ _start:
     syscall
     push    rax
 
+
     ; syscall(SYS_EXIT, <sys_write return value> - hello_len);
     mov     rax, SYS_EXIT
     pop     rdi
