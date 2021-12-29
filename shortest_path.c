@@ -53,3 +53,4 @@ void shortest_path(int s, int t, int path[])
     do {path[i++] = k; k = state[k].predecessor; } while (k >= 0);
 }
 
+
